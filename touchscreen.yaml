@@ -56,11 +56,11 @@ logger:
 
 api:
   encryption:
-    key: "4BufaOWCa0SR/VXeX59pDX5Pnv+sdztasHDJ/uAq5qs="
+    key: "apikey"
 
 ota:
   - platform: esphome
-    password: "52d39c9cfec2a1767fcb224480554610"
+    password: "otakey"
 
 wifi:
   networks:
